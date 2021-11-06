@@ -26,3 +26,24 @@ main:
   title: Mon menu 3
   url: /menu3/
   weight: 1
+
+footer:
+- identifier: plan_site
+  name: Plan du Site
+  url: /plan-site/
+  weight: 1
+- identifier: accessibilite
+  name: "Accessibilité: non/partiellement/totatelement conforme"
+  url: /accessibilite/
+  weight: 2
+- identifier: mentions_legales
+  name: Mentions légales
+  url: /mentions-legales/
+  weight: 3
+- name : Données personnelles
+  url: /donnees-personnelles/
+  weight: 4
+- identifier: gestion_cookies
+  name: Gestion des cookies
+  url: /gestion-cookies/
+  weight: 5
