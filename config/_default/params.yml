@@ -1,0 +1,15 @@
+header:
+  bloc_marque: Préfet $de la Seine-$Maritime
+  url: /
+  logo:
+    url: /img/speric.png
+    alt: logo Speric
+  service: 
+    title: DDTM 76
+    tagline: Direction départementale des territoires$ et de la mer de Seine-Maritime
+  search: true #false to disable
+#footer:
+  #bloc_marque: Préfet $de la Seine-$Maritime
+theme:
+  style: light #dark, light, default
+  switch_theme_position: both #header, footer, both

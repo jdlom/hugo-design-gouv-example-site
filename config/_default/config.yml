@@ -1,0 +1,9 @@
+theme: "hugo-design-gouv"
+baseURL: http://example.org/
+languageCode: en-us
+title: Quel beau titre 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

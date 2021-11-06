@@ -1,0 +1,28 @@
+main:
+- identifier: menu1
+  name: Menu 1
+  title: Mon menu 1
+  url: /menu1/
+  weight: 1
+- identifier: menu1.2
+  name: Menu1.2
+  title: Mon menu 1.2
+  url: /menu1/menu1.2
+  weight: 2
+  parent: menu1
+- identifier: menu1.1
+  name: Menu 1.1
+  title: Mon menu 1.1
+  url: /menu1/menu1.1
+  weight: 1
+  parent: menu1
+- identifier: menu2
+  name:  Menu 2
+  title: Mon menu 2
+  url: /menu2/
+  weight: 1
+- identifier: menu3
+  name:  Menu 3
+  title: Mon menu 3
+  url: /menu3/
+  weight: 1
