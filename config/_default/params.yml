@@ -7,9 +7,14 @@ header:
   service: 
     title: DDTM 76
     tagline: Direction départementale des territoires$ et de la mer de Seine-Maritime
-  search: true #false to disable
-#footer:
-  #bloc_marque: Préfet $de la Seine-$Maritime
+
+footer:
+  bloc_marque: Préfet $de la Seine-$Maritime
+  description: Le but du site est permettre de ...
+
+#Disable search function
+disableSearch: false #true to disable
+
 theme:
   style: light #dark, light, default
   switch_theme_position: both #header, footer, both
